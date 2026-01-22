@@ -1,6 +1,7 @@
 # SessionRange-MT5-Ind
 
 * Coding by Denis Kislitsyn | denis@kislitsyn.me | [kislitsyn.me](https://kislitsyn.me/personal/algo)
+* MQL5: [Custom Session Range Indicator](https://www.mql5.com/en/market/product/162711?source=Site+Market+My+Products+Page)
 * Version: 1.00
 
 ## Что нового?
