@@ -12,6 +12,8 @@
 
 **SessionRange-MT5-Ind** — индикатор для MetaTrader 5, который строит канал High/Low/Middle на основе заданной торговой сессии.
 
+![Layout](img/UM001.%20Layout.png)
+
 ### Принцип работы
 
 Индикатор:
